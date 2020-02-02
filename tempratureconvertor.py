@@ -15,6 +15,7 @@ temp_f = round(temp_f, 4)
 temp_c = round(temp_c, 4)
 temp_k = round(temp_k, 4)
 
+# :\t for spacing 
 print('\nDegrees Fahrenheit:\t' + str(temp_f))
 print('Degrees Celsius:\t' + str(temp_c))
 print('Degrees Kelvin:\t\t' + str(temp_k))
